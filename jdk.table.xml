@@ -1,0 +1,361 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.9 (C:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Python27" type="simple" />
+            <root url="file://C:/Python27/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-762174762" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at C:\Users\jeastman.DRAKER\programming\venv\cell_modem" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="C:\Users\jeastman.DRAKER\programming\venv\cell_modem\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/programming/venv/cell_modem/Lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/cell_modem/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/cell_modem" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/cell_modem/Lib/site-packages" type="simple" />
+            <root url="file://C:/Python27" type="simple" />
+            <root url="file://C:/Python27/Lib/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at C:\Users\jeastman.DRAKER\programming\venv\git_download" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="C:\Users\jeastman.DRAKER\programming\venv\git_download\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/programming/venv/git_download/Lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/git_download/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/git_download" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/git_download/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/git_download/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/git_download/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/git_download/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/120535597" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/programming" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at C:\Users\jeastman.DRAKER\programming\venv\loggernet" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="C:\Users\jeastman.DRAKER\programming\venv\loggernet\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/programming/venv/loggernet/Lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/loggernet/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/loggernet" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/loggernet/Lib/site-packages" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 virtualenv at C:\Users\jeastman.DRAKER\programming\venv\daft" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="C:\Users\jeastman.DRAKER\programming\venv\daft\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/programming/venv/daft/Lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/daft/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/daft" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/daft/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/daft/Lib/site-packages/sphinxcontrib_autoprogram-0.1.4.dev20161115-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/daft/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/daft/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/daft/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1497552567" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at C:\Users\jeastman.DRAKER\programming\venv\play" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="C:\Users\jeastman.DRAKER\programming\venv\play\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/programming/venv/play/Lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/play/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/play" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/play/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/programming/corautil" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/play/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/play/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/play/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-494833938" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at C:\Users\jeastman.DRAKER\programming\venv\product_testing" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="C:\Users\jeastman.DRAKER\programming\venv\product_testing\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/programming/venv/product_testing/Lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/product_testing/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/product_testing" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/product_testing/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/product_testing/Lib/site-packages/pywin32-221-py2.7-win32.egg" type="simple" />
+            <root url="file://$USER_HOME$/programming/python_modules/pefile" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/product_testing/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/product_testing/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/product_testing/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1816854774" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at C:\Users\jeastman.DRAKER\programming\venv\phasor" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\Users\jeastman.DRAKER\programming\venv\phasor\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/programming/venv/phasor/Lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/phasor/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/phasor" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/phasor/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1016930571" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at C:\Users\jeastman.DRAKER\programming\venv\cora" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\Users\jeastman.DRAKER\programming\venv\cora\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/programming/venv/cora/Lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/cora/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/cora" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/cora/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/programming/venv/cora/Lib/site-packages/argparse-1.4.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-796259545" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at C:\Users\jeastman.DRAKER\programming\venv\py3_play" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="C:\Users\jeastman.DRAKER\programming\venv\py3_play\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python35-32/DLLs" type="simple" />
+            <root url="file://C:/Python35-32/Lib" type="simple" />
+            <root url="file://C:/Python35-32" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/py3_play" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/py3_play/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/programming/modbus-tk" type="simple" />
+            <root url="file://$USER_HOME$/programming/corautil" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/py3_play/Lib/site-packages/pywin32-221-py3.6-win32.egg" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/py3_play/Lib/site-packages/PyInstaller-3.3.dev0+gb899bfbd-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/programming/venv/py3_play/Lib/site-packages/macholib-1.8-py3.6.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/programming/venv/py3_play/Lib/site-packages/pefile-2017.8.1-py3.6.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/programming/venv/py3_play/Lib/site-packages/altgraph-0.14-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/py3_play/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/py3_play/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/py3_play/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/2140222201" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 virtualenv at C:\Users\jeastman.DRAKER\programming\venv\phasor" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="C:\Users\jeastman.DRAKER\programming\venv\phasor\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/programming/venv/phasor/Lib" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/phasor/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/phasor" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/phasor/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1016930571" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at C:\Users\jeastman.DRAKER\programming\venv\dt_int_update" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="C:\Users\jeastman.DRAKER\programming\venv\dt_int_update\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python35-32/DLLs" type="simple" />
+            <root url="file://C:/Python35-32/Lib" type="simple" />
+            <root url="file://C:/Python35-32" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/dt_int_update" type="simple" />
+            <root url="file://$USER_HOME$/programming/venv/dt_int_update/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/114192290" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
