@@ -1,6 +1,15 @@
 <keymap version="1" name="Sublime Text 3" parent="NetBeans 6.5">
+  <action id="Console.TableResult.CloneRow">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="DatabaseView.CopyAction">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="DecrementWindowHeight" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="shift ctrl delete" />
@@ -8,9 +17,44 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
+  <action id="EditorDownWithSelection" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorUpWithSelection" />
   <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
+  <action id="InsertLiveTemplate" />
   <action id="JumpToLastChange" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="RunDashboard.CopyConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.Push" />
+  <action id="XDebugger.CopyWatch">
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
 </keymap>
